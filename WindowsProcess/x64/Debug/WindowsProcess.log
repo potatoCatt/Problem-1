@@ -1,0 +1,4 @@
+﻿  WindowsProcess.cpp
+C:\Users\cat\Documents\тестовое\WindowsProcess\WindowsProcess\WindowsProcess.cpp(56,52): warning C4244: =: преобразование "ULONGLONG" в "double", возможна потеря данных
+C:\Users\cat\Documents\тестовое\WindowsProcess\WindowsProcess\WindowsProcess.cpp(113,30): warning C4244: аргумент: преобразование "SIZE_T" в "DWORD", возможна потеря данных
+  WindowsProcess.vcxproj -> C:\Users\cat\Documents\тестовое\WindowsProcess\x64\Debug\WindowsProcess.exe
